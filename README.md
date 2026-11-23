@@ -5,10 +5,12 @@
 <p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress). 
 I'm interested in software development, design, and practical applications of **AI**, especially where they meet user-centered development.</p>
 
-<h2>🔭 Currently:</h2>
-- Taking a diploma in **Machine Learning and Generative Models**
-- Building a personal app around music, media, and posts, bringing back the spirit of early social media
-- Exploring how to make software more accessible, useful and fun
+<h2  align="left">🔭 Currently:</h2>
+<ul>
+  <li>Taking a diploma in <b>Machine Learning and Generative Models</b>.</li>
+  <li>Building a personal app around music, media, and posts, bringing back the spirit of early social media.</li>
+  <li>Exploring how to make software more accessible, useful and fun</li>
+</ul>
 
 <p><b>Fun facts:</b> I'm enthusiastic about video games and game development 🎮. I also enjoy drawing, reading, and writing.</p>
 
@@ -45,11 +47,3 @@ I'm interested in software development, design, and practical applications of **
 
 <h1>📊GitHub Stats:</h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nan07dv&theme=midnight-purple&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nan07dv/Nan07dv/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nan07dv/Nan07dv/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nan07dv/Nan07dv/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-- ⚡ Fun fact: ...
--->
