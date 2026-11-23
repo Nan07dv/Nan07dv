@@ -14,7 +14,7 @@ I'm interested in software development, design, and practical applications of **
 
 <p><b>Fun facts:</b> I'm enthusiastic about video games and game development 🎮. I also enjoy drawing, reading, and writing.</p>
 
-<h1>💻Tech Stack</h1>
+<h2>💻Tech Stack</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -45,5 +45,5 @@ I'm interested in software development, design, and practical applications of **
 
 
 
-<h1>📊GitHub Stats:</h1>
+<h2>📊GitHub Stats:</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nan07dv&theme=midnight-purple&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
