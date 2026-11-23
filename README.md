@@ -5,8 +5,8 @@
 <p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress). 
 I'm interested in software development, design, and practical applications of **AI**, especially where they meet user-centered development.</p>
 
-<h2  align="left">🔭 Currently:</h2>
-<ul>
+<p data-importer="text" align="left"><b><font size="6"> 🔭 Currently: </font></b></p>
+<ul align="left">
   <li>Taking a diploma in <b>Machine Learning and Generative Models</b>.</li>
   <li>Building a personal app around music, media, and posts, bringing back the spirit of early social media.</li>
   <li>Exploring how to make software more accessible, useful and fun</li>
