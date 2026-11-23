@@ -1,7 +1,7 @@
 <h1>Hello there, I'm Nancy! </h1> 
 <i>...or Any. Both are fine.</i>
 
-<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh3OW12aGx1NDRvZGVwbmdna3owd295ejZqNGV1bjNjd2w1OGh1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+<img data-importer="image" align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh3OW12aGx1NDRvZGVwbmdna3owd295ejZqNGV1bjNjd2w1OGh1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 <p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress).</p>
 <p data-importer="text" align="left"> I'm interested in software development, design, and practical applications of <b>AI</b>,</p> 
 <p> especially where they meet user-centered development.</p>
