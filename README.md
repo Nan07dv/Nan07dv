@@ -2,8 +2,9 @@
 <i>...or Any. Both are fine.</i>
 
 <img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh3OW12aGx1NDRvZGVwbmdna3owd295ejZqNGV1bjNjd2w1OGh1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-<p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress). 
-I'm interested in software development, design, and practical applications of **AI**, especially where they meet user-centered development.</p>
+<p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress).</p>
+<br>
+<p> I'm interested in software development, design, and practical applications of <b>AI</b>, especially where they meet user-centered development.</p>
 
 <p data-importer="text" align="left"><b><font size="6"> 🔭 Currently: </font></b></p>
 <ul align="left">
