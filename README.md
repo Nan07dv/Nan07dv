@@ -3,12 +3,13 @@
 
 <img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh3OW12aGx1NDRvZGVwbmdna3owd295ejZqNGV1bjNjd2w1OGh1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 <p data-importer="text" align="left">I'm a <b>Computer Science</b> graduate from UNAM (degree in progress).</p>
-<p data-importer="text" align="left"> I'm interested in software development, design, and practical applications of <b>AI</b>, especially where they meet user-centered development.</p>
+<p data-importer="text" align="left"> I'm interested in software development, design, and practical applications of <b>AI</b>,</p> 
+<p> especially where they meet user-centered development.</p>
 
 <p data-importer="text" align="left"><b><font size="6"> 🔭 Currently: </font></b></p>
 <ul align="left">
   <li>Taking a diploma in <b>Machine Learning and Generative Models</b>.</li>
-  <li>Building a personal app around music, media, and posts, bringing back the spirit of early social media.</li>
+  <li>Building a personal app around music, media, and posts,<br> bringing back the spirit of early social media.</li>
   <li>Exploring how to make software more accessible, useful and fun</li>
 </ul>
 
